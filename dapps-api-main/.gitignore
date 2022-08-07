@@ -1,0 +1,8 @@
+/node_modules
+/uploads
+.env
+data
+coverage
+report
+logs/*.log
+logs/*.json
